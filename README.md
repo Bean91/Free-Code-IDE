@@ -1,6 +1,6 @@
-# Free Code IDE
+# Open IDE
 
-**Free Code IDE** is a fast, modern, cross-platform integrated development environment built from scratch with a custom rendering engine and a minimalist user interface. Designed for developers who want full control and zero bloat, Free Code IDE aims to be an alternative to existing tools like VS Code and JetBrains Fleet — but fully open source and truly lightweight.
+**Open IDE** is a fast, modern, cross-platform integrated development environment built from scratch with a custom rendering engine and a minimalist user interface. Designed for developers who want full control and zero bloat, Free Code IDE aims to be an alternative to existing tools like VS Code and JetBrains Fleet — but fully open source and truly lightweight.
 
 ---
 
@@ -31,10 +31,10 @@
 
 ## 📦 Installation
 
-Free Code IDE is still in active development and not yet available as a stable release. To try it out locally:
+Open IDE is still in active development and not yet available as a stable release. To try it out locally:
 
 ```bash
-git clone https://github.com/Bean91/free-code-ide.git
+git clone https://github.com/Bean91/open-ide.git
 cd free-code-ide
 npm install
 npm run dev
